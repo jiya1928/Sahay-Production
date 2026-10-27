@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+plotly
+pydantic>=2
+python-dotenv
+langchain-groq
+langgraph
+langchain-core
+# Optional emotion classifier; install separately if needed:
+# transformers
+# torch
