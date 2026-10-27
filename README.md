@@ -71,9 +71,3 @@ PRs welcome! Please follow conventional commits.
 MIT License — Built by Jiya @ Sahay Team
 🙏 Acknowledgements
 Groq for free gpt-oss-20b inferenceOpenAI for open-weight modelStreamlit & FastAPI communitiesjavascript
-**Push kar:**
-
-```powershell
-git add README.md
-git commit -m "docs: add professional README for internship"
-git push origin main
